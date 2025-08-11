@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ADD YOUR SESSION ID HERE SPOTY~XMD~",
+SESSION_ID: process.env.SESSION_ID || "SPOTY~XMD~qFcxzbQa#Bk764bH_To0bnRvdcUKOo4lmOWb6sZ2SyXo68jpbneY",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -26,7 +26,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qjkpw0.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "$",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "SPOTY-XMD",
 // add bot name here for menu
@@ -38,27 +38,27 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // choose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links without removing member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "50946904797",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233240537074",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "sᴘᴏᴛʏ ᴍᴛғ",
+OWNER_NAME: process.env.OWNER_NAME || "JUNIOR",
 // add bot owner name
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // auto react on all msgs
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // public/private/inbox/group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
 // kick user if share link 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // false if want private mode
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // show typing status   
 READ_CMD: process.env.READ_CMD || "false",
 // mark commands as read 
-DEV: process.env.DEV || "50946904797",
+DEV: process.env.DEV || "233240537074",
 // your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // anti view once 
